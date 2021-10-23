@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "simonsiefke.prettier-vscode",
+    "arcanis.vscode-zipfs",
+    "dbaeumer.vscode-eslint",
+    "ms-azuretools.vscode-docker",
+    "ms-python.python",
+    "esbenp.prettier-vscode"
+  ]
+}

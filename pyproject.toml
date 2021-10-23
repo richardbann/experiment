@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "experiment"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pip = "^21.3.1"
+fastapi = {extras = ["all"], version = "^0.70.0"}
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.910"
+black = "^21.10b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
