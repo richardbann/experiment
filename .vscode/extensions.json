@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "simonsiefke.prettier-vscode",
     "arcanis.vscode-zipfs",
     "dbaeumer.vscode-eslint",
     "ms-azuretools.vscode-docker",

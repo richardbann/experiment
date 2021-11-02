@@ -1,6 +1,6 @@
 {
   "name": "experiment",
-  "packageManager": "yarn@3.0.2",
+  "packageManager": "yarn@3.1.0",
   "private": true,
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
